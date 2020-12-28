@@ -1,0 +1,4 @@
+﻿file: hmeq.csv - bộ dữ liệu gốc
+file: dataFormat.csv - bộ dữ liệu sau khi biến đổi thành WOE và áp dụng logistic regression
+file: x_test; x_train; y_test; y_train - bộ dữ liệu train test 80:20
+file: stepwise_feature.xlsx - các bộ tính năng được chọn sau khi áp dụng stepwise
